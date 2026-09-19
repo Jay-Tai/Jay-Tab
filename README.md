@@ -20,8 +20,6 @@ There are many features that are packed into Jay-Tab:
 
 ## CAD
 
-![The CAD Model!]()
-
 The CAD model is from OnShape. It is made so the screen takes up 95% of the project, along with a stem that has weights inside of it to hold the Jay-Tab.
 
 There are multiple parts, that are all going to be held using multiple screws. The power button is on the right side stem of the project.
