@@ -26,7 +26,7 @@ There are multiple parts, that are all going to be held using multiple screws. T
 
 ### Important note about the CAD!
 
-There is a part in the CAD that is CNCed. The bottom weight is CNCed to make sure that the Jay-Tab is able to stay upright, while also giving a premium feel through weight.
+There is a part in the CAD that is CNCed. The bottom weight is CNCed to make sure that the Jay-Tab is able to stay upright, while also giving a premium feel through weight.There is also another laser-cuttable rubber part that goes on the bottom to stop it from moving.
 
 ![The Jay-Tab!](<https://i.postimg.cc/xCQNn8pr/Screenshot-2026-09-15-at-7-58-35-AM-(1).png>)
 
